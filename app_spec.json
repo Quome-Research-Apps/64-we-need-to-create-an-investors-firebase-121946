@@ -1,0 +1,1 @@
+{"name": "64-we-need-to-create-an-investors-firebase-121946", "spec": {"port": 8000, "containers": [{"image": "", "name": "64-we-need-to-create-an-investors-firebase-121946", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
